@@ -1,0 +1,11 @@
+fastapi[standard]
+langchain-community
+langchain-cohere
+langchain
+faiss-cpu
+python-dotenv
+pydantic
+cohere
+sqlalchemy
+psycopg2
+pypdf
